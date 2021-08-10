@@ -78,7 +78,7 @@ The following points were the objective of the project . If you are looking for 
 - Easy support for python.
 
 
-### Design and Artitecture 
+### Design and Architecture 
 
 <img src="Output/Artitecture.png" width="850" >
 
@@ -112,15 +112,15 @@ The following points were the objective of the project . If you are looking for 
 
 ### Output
 
-<img src="Output/out_1.jpg" width="650" >
+<img src="Output/out_1.jpg" width="120" >
 
 During Model Building: Logistic Regression,CART, Random Forests, XGBoost, using machine learning models Cross Validation Score and accuracy were calculated.
 
-<img src="Output/out_2.jpg" width="450" >
+<img src="Output/out_2.jpg" width="120" >
 
 Later Random Forests, XGBoost hyperparameter optimizations optimized to increase Cross Valida- tion value.
 
-<img src="Output/out_3.jpg" width="550" >
+<img src="Output/out_3.jpg" width="120" >
 
 
 ###  Made with &nbsp;❤️ by  [Karan Shah](https://karanshah1910.tech/) 
