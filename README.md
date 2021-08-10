@@ -45,7 +45,7 @@ The following points were the objective of the project . If you are looking for 
 - whenever we create bot we always need to send the response back for the given message and for that we used python language and flask framework.
 - flask app created now will help use to talk to markert stack API.
   
-### Why whatsapp Bot ?
+#### Why whatsapp Bot ?
 
 - 2 Billion users base. 
 - Most popular messaging app. 
@@ -53,7 +53,7 @@ The following points were the objective of the project . If you are looking for 
 - easy to integrate for developers. 
 - backed by facebook for buisness users.
 
-### what are webhooks ?
+#### what are webhooks ?
 
 - HTTPS and API endpoints, which recieves data in json format or any format which is supported by HTTPS. 
 - Recieve HTTP request over TLS/SSL. 
@@ -61,7 +61,7 @@ The following points were the objective of the project . If you are looking for 
 - performed Buisness Logic.
 - Returns the response.
 
-### why python flask for webhooks ?
+#### why python flask for webhooks ?
 
 - few lines require to write webapp. 
 - Easy to understand.
@@ -69,7 +69,7 @@ The following points were the objective of the project . If you are looking for 
 - very light weight 
 - can be easily extended with more packages as app evolves.
 
-### why market stacks ?
+#### why market stacks ?
  
 - easy to get started. 
 - includes 72 stock exchanges.
