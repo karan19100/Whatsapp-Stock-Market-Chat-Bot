@@ -112,15 +112,15 @@ The following points were the objective of the project . If you are looking for 
 
 ### Output
 
-<img src="Output/out_1.jpg" width="120" >
+<img src="Output/out_1.jpg" width="320" >
 
 During Model Building: Logistic Regression,CART, Random Forests, XGBoost, using machine learning models Cross Validation Score and accuracy were calculated.
 
-<img src="Output/out_2.jpg" width="120" >
+<img src="Output/out_2.jpg" width="320" >
 
 Later Random Forests, XGBoost hyperparameter optimizations optimized to increase Cross Valida- tion value.
 
-<img src="Output/out_3.jpg" width="120" >
+<img src="Output/out_3.jpg" width="320" >
 
 
 ###  Made with &nbsp;❤️ by  [Karan Shah](https://karanshah1910.tech/) 
