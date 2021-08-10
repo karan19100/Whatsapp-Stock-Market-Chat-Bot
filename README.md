@@ -1,5 +1,7 @@
 # Whatsapp-stock-market-chatbot
 
+<img src="Output/front_photo.jpeg" width="520" >
+
 ## Table of Content
 
  1. Overview
