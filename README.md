@@ -28,15 +28,15 @@ The following points were the objective of the project . If you are looking for 
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg) 
 
-[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=90>
-<img target="_blank" src="https://backendless.com/wp-content/uploads/2020/04/twilio-logo.png" width=60>
-<img target="_blank" src="https://www.freepnglogos.com/uploads/whatsapp-png-image-9.png" width=55>
-<img target="_blank" src="https://symbols.getvecta.com/stencil_27/122_webhooks.82c05a6373.svg" width=55>
-<img target="_blank" src="https://cms-assets.tutsplus.com/uploads/users/769/posts/35539/preview_image/marketstack.jpg" width=65>]
+[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=100>
+<img target="_blank" src="https://backendless.com/wp-content/uploads/2020/04/twilio-logo.png" width=70>
+<img target="_blank" src="https://www.freepnglogos.com/uploads/whatsapp-png-image-9.png" width=65>
+<img target="_blank" src="https://symbols.getvecta.com/stencil_27/122_webhooks.82c05a6373.svg" width=65>
+<img target="_blank" src="https://cms-assets.tutsplus.com/uploads/users/769/posts/35539/preview_image/marketstack.jpg" width=75>]
 
 ### Technical Aspect 
 
-<img src="Output/Tech_component.png" width="650" >
+<img src="Output/Tech_component.png" width="550" >
 
 - created a bot around the whatsapp platform which interact with users
 - used twilio which is used to utilize the the service because it offers an API in whatsapp.
@@ -80,7 +80,7 @@ The following points were the objective of the project . If you are looking for 
 
 ### Design and Artitecture 
 
-<img src="Output/Artitecture.png" width="650" >
+<img src="Output/Artitecture.png" width="850" >
 
 #### 1. Whatsapp - Twilio
 - User sends message to twilio provided sandbox url & twilio recieves the message. 
@@ -112,15 +112,15 @@ The following points were the objective of the project . If you are looking for 
 
 ### Output
 
-<img src="Output/comparision.png" width="650" >
+<img src="Output/out_1.jpg" width="650" >
 
 During Model Building: Logistic Regression,CART, Random Forests, XGBoost, using machine learning models Cross Validation Score and accuracy were calculated.
 
-<img src="Output/accuracy.png" width="450" >
+<img src="Output/out_2.jpg" width="450" >
 
 Later Random Forests, XGBoost hyperparameter optimizations optimized to increase Cross Valida- tion value.
 
-<img src="Output/comparision_2.png" width="550" >
+<img src="Output/out_3.jpg" width="550" >
 
 
 ###  Made with &nbsp;❤️ by  [Karan Shah](https://karanshah1910.tech/) 
