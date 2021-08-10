@@ -12,10 +12,11 @@
  9. Output 
 
 
-### Overview
+### Overview :- 
+
 we created a bot around the whatsapp platform which interact with users and used twilio which is used to utilize the the service because it offers an API in whatsapp and whenever we create bot we always need to send the response back for the given message and for that we used python language and flask framework.
 
-### Learning Objective
+### Learning Objective :- 
 
 The following points were the objective of the project . If you are looking for all the following points in this repo then i have not covered all in this repo. I'm working on blog about this mini project and I'll update the link of blog about all the points in details later . (The main intention was to create an end-to-end chatbot application. )  
 - Setting up whatsapp chastbot.
@@ -24,7 +25,7 @@ The following points were the objective of the project . If you are looking for 
 - Wrtitng python handlers.
 - Fetching stock data with Marketstack.
 
-### Technologies Used  
+### Technologies Used :- 
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg) 
 
@@ -34,7 +35,7 @@ The following points were the objective of the project . If you are looking for 
 <img target="_blank" src="https://symbols.getvecta.com/stencil_27/122_webhooks.82c05a6373.svg" width=65>
 <img target="_blank" src="https://cms-assets.tutsplus.com/uploads/users/769/posts/35539/preview_image/marketstack.jpg" width=75>]
 
-### Technical Aspect 
+### Technical Aspect :- 
 
 <img src="Output/Tech_component.png" width="550" >
 
@@ -78,7 +79,7 @@ The following points were the objective of the project . If you are looking for 
 - Easy support for python.
 
 
-### Design and Architecture 
+### Design and Architecture :- 
 
 <img src="Output/Artitecture.png" width="850" >
 
@@ -92,7 +93,7 @@ The following points were the objective of the project . If you are looking for 
 - parse data and gets stock data from Marketstack & marketstack API returns the stack price data. 
 
 
-### Installation 
+### Installation :- 
 
 - Clone this repository and unzip it.
 - After downloading, cd into the flask directory.
@@ -101,7 +102,7 @@ The following points were the objective of the project . If you are looking for 
 - Execute the command: python app.py.
 
 
-### Steps to write python flask app 
+### Steps to write python flask app :- 
 
 - Installed python 
 - created the virtual environment 
@@ -114,11 +115,7 @@ The following points were the objective of the project . If you are looking for 
 
 <img src="Output/out_1.jpg" width="320" >
 
-During Model Building: Logistic Regression,CART, Random Forests, XGBoost, using machine learning models Cross Validation Score and accuracy were calculated.
-
 <img src="Output/out_2.jpg" width="320" >
-
-Later Random Forests, XGBoost hyperparameter optimizations optimized to increase Cross Valida- tion value.
 
 <img src="Output/out_3.jpg" width="320" >
 
