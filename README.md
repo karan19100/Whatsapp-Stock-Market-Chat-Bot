@@ -122,7 +122,7 @@ The following points were the objective of the project . If you are looking for 
 <img src="Output/out_3.jpg" width="320" >
 
 
-###  Made with &nbsp;❤️ by  [Karan Shah](https://karanshah1910.tech/) 
+###  Made with &nbsp;❤️ by  [Karan Shah](https://karanshah.tech/) 
 
 
 
